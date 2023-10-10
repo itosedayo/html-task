@@ -1,0 +1,10 @@
+.text {
+    background-color: aqua;
+}
+
+span{
+    border: 5px  dotted darkblue;
+}
+.text-brown{
+    color: brown;
+}
