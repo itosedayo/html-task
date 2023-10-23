@@ -1,0 +1,26 @@
+hissu{
+    background-color: red;
+    border-radius: 10px;
+    font-size: 5px;
+}
+siro{
+    color: white;
+}
+table, th, tr, td{
+    border:solid 3px black ;
+    border-collapse: collapse;
+    padding: 20px;
+}
+th{
+    text-align: left;
+    background-color: blue;
+    color: white;
+    vertical-align: top;
+
+}
+a{
+    font-size: 1px;
+}
+tr,td{
+    background-color: aqua;
+}
