@@ -1,0 +1,48 @@
+@charset "utf-8";
+.box{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+    align-items: stretch;
+
+}
+h2{
+    width: 90%;
+    margin: auto;
+    font-size: 100%;
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+img{
+    width: 100%;
+    height: 200%;
+    object-fit: contain;
+}
+p{
+    width: 90%;
+    margin:  20% auto;
+    text-align: start;
+
+}
+.item{
+    background-color: aqua;
+    width: 30%;
+    text-align: center;
+}
+
+a{
+    background-color: mediumseagreen;
+    display: inline-block;
+    margin: 5% auto;
+    border-radius: 30px;
+    color: black;
+    padding: 15px;
+    text-emphasis: none;
+}
+div{
+    text-align: center;
+}
