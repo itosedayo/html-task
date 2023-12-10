@@ -1,0 +1,45 @@
+.flex {
+    display: flex; 
+}
+  .flex .image {
+    width: 200px; 
+    margin: 0;
+    padding: 0;
+  }
+  .flex .image img {
+    width: 100%;
+    height: auto;
+  }
+  .flex .text {
+    margin: 10 10 10 50px;
+    padding: 20px;
+
+  }
+  
+   .flex .tiikawa{
+    width:  400px;
+    
+  
+ }
+ .flex .tiikawa img{
+    width: 100%;
+    height: auto;
+ }
+  body {
+    margin: 20px;
+    padding: 0;
+  }
+  main{
+    background-color: white;
+  }
+h2{
+    text-align: center;
+    padding: 20px;
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+ 
+
+  

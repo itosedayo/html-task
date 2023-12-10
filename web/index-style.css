@@ -1,0 +1,26 @@
+
+
+p{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+
+h1{
+    color: white;
+}
+img{
+    size: 50%;
+    text-align: center;
+}
+.img{
+    text-align: center;
+}
+body{
+    min-width: 700px;
+    background-image: url(index-img/12436ad1335e0db830e43d18940c835f.jpg);
+    background-size: auto;
+   
+}
+
+

@@ -1,0 +1,17 @@
+/*記述済みの部分は変更しないでください！*/
+
+@charset "utf-8";
+
+.mark-list {
+    list-style: "Q";
+    font-size: 20px;
+    font: bold;
+}
+
+.mark-list  {
+    background-color: white;
+}
+
+.img{
+    text-align: center;
+}
