@@ -1,0 +1,26 @@
+.stafflogo{
+    margin: 50px 0 0 1200px;
+}
+div.staff  ul{
+    color: white;
+    margin:  0 0 0 250px;
+}
+ul li{
+    list-style: none;
+}
+.yaku{
+    font-size: 15px;
+    margin: 20px 0 0 0;
+}
+ div ul li {
+    font-size: 35px;
+}
+footer{
+    font-size: 15px;
+    text-align: center;
+    margin: 100px;
+    color: white;
+}
+.staff{
+    display: flex;
+}

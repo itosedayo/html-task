@@ -1,0 +1,41 @@
+.key{
+    -ms-writing-mode:tb-rl;
+    writing-mode: vertical-rl;
+    text-align: center;
+    width: 59%;
+    margin: 100px;
+}
+div  li a{
+    display: block;
+    padding: 1rem;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+}
+footer{
+    font-size: 15px;
+    text-align: center;
+    margin: 100px;
+    color: white;
+}
+div.flex p{
+    color: white;
+    margin: 10px 0 0 300px;
+    font-size: 17px;
+}
+div.flex img{
+    height: 150px;
+    width: 178;
+    margin: 0 0 0 470px;
+}
+.flex{
+    display: flex;
+}
+.gazou1{
+    margin: 100px;
+}
+.gazou2{
+    margin: 100px;
+    text-align: center;
+}

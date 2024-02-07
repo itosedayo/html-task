@@ -1,0 +1,2 @@
+ページ内遷移はSTORY　KEYWORD　CHARACTERに入れてあります。
+疑似クラスはindex-style.cssの32行目にあります。

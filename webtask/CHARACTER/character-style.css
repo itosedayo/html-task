@@ -1,0 +1,40 @@
+.kyara{
+    -ms-writing-mode:tb-rl;
+    writing-mode: vertical-rl;
+    text-align: center;
+    width: 74%;
+    margin: 50px;
+    
+
+}
+div  li a{
+    display: block;
+    padding: 1rem;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+footer{
+    font-size: 15px;
+    text-align: center;
+    margin: 100px;
+    color: white;
+}
+.text{
+color: white;
+-ms-writing-mode:tb-rl;
+writing-mode: vertical-rl;
+font-size: 20px;
+margin: 30px;
+}
+.flex{
+    display: flex;
+}
+.kyaralogo{
+    width: 171px;
+    height: 83.67px;
+}
+.bibalogo{
+    width: 171px;
+    height: 61.67px;
+}

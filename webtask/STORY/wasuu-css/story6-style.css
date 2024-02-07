@@ -1,0 +1,118 @@
+.container{
+    height: 370px;
+    width: 636px;
+    position: relative;
+    margin: 0 0 0 100px;
+}
+.image{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0;
+    background-size: cover;
+    background-position: center center;
+    animation: image-switch-animation 20s infinite;
+}
+.scr1{
+    background-image: url(../img/6話1.jpg);
+}
+.scr2{
+    background-image: url(../img/6話2.jpg);
+}
+.scr3{
+    background-image: url(../img/6話3.jpg);
+}
+.scr4{
+    background-image: url(../img/6話4.jpg);
+}
+@keyframes image-switch-animation {
+    0%{ opacity: 0;}
+    5%{ opacity: 0;}
+    25%{ opacity: 1;}
+    30%{ opacity: 0;}
+    100%{ opacity: 0;}
+  }
+  .image:nth-of-type(1) {
+    animation-delay: 0s;
+  }
+  .image:nth-of-type(2) {
+    animation-delay: 5s;
+  }
+  .image:nth-of-type(3) {
+    animation-delay: 10s;
+  }
+  .image:nth-of-type(4) {
+    animation-delay: 15s;
+  }
+.wasuu{
+    -ms-writing-mode:tb-rl;
+    writing-mode: vertical-rl;
+    text-align: center;
+    width: 77%;
+    margin: 100px;
+
+}
+div  li a{
+    display: block;
+    padding: 1rem;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+.flex{
+    display: flex;
+}
+.text1{
+    color: white;
+    -ms-writing-mode:tb-rl;
+    writing-mode: vertical-rl;
+    font-size: 45px;
+}
+.text2{
+    color: white;
+    -ms-writing-mode:tb-rl;
+    writing-mode: vertical-rl;
+    font-size: 50px;
+    margin: 0 100px 0 240px;
+}
+.gyou1{
+    display: flex;
+    height: 175px;
+    width: 310px;
+    margin: 15px;
+}
+.wa1{
+    margin: 0 15px 0 85px;
+}
+.gyou2{
+    display: flex;
+    height: 175px;
+    width: 310px;
+    margin: 15px;   
+}
+.wa2{
+    margin: 0 15px 0 85px;
+}
+.setumei{
+    color: white;
+    margin: 50px 0 0 100px;
+    font-size: 18px;
+}
+footer{
+    font-size: 15px;
+    text-align: center;
+    margin: 100px;
+    color: white;
+}
+iframe{
+    margin: 100px 0 0 100px;
+}
+.yokoku{
+    color: white;
+    -ms-writing-mode:tb-rl;
+    writing-mode: vertical-rl;
+    font-size: 45px;
+    margin: 100px 0 0 45px;
+}

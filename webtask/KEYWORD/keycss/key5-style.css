@@ -1,0 +1,34 @@
+.key{
+    -ms-writing-mode:tb-rl;
+    writing-mode: vertical-rl;
+    text-align: center;
+    width: 59%;
+    margin: 100px;
+}
+div  li a{
+    display: block;
+    padding: 1rem;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+}
+footer{
+    font-size: 15px;
+    text-align: center;
+    margin: 100px;
+    color: white;
+}
+.gazou1{
+    margin: 0 0 0 1200px;
+}
+.gazou2{
+    width: 816px;
+    height: 1274px;
+    margin: 0 0 0 275px;
+}
+.gazou3{
+    height: 1021px;
+    width: 815px;
+    margin: 0 0 0 275px;
+}
