@@ -39,3 +39,10 @@ div.flex img{
     margin: 100px;
     text-align: center;
 }
+.top{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 50px;
+    margin: 0 0 0 900px;
+}

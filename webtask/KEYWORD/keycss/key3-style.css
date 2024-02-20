@@ -28,3 +28,10 @@ footer{
 .gazou3{
     margin: 100px 200px 50px 300px;
 }
+.top{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 50px;
+    margin: 0 0 0 900px;
+}
